@@ -48,19 +48,14 @@ I orchestrate technology and creative infrastructure across a network of special
 
 #### **Data Engineering & Backend Topology**
 <p align="left">
-  <p>PostgresSQL</p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXncf_Y2rAslmJex40IDXD8uoapmvNoabiFVmfOxyEPQ&s=10" alt="PostgreSQL" width="15%"/>
-  <p>NodeJS</p>
   <img src="https://www.mindrops.com/images/nodejs-image.webp" alt="NodeJS" width="15%"/>
-  <p>MongoDB</p>
   <img src="https://www.nuget.org/profiles/MongoDB/avatar?imageSize=512" alt="Mongo DB" width="15%"/>
-  <p>GraphQL & REST</p>
   <img src="https://memgraph.com/images/blog/graphql-vs-rest-api/cover.png" alt="GraphQL & REST" width="15%">
 </p>
 
 #### **Venture Orchestration & Media Systems**
 <p align="left">
-  <img src="https://img-cdn.inc.com/image/upload/f_webp,c_fit,w_1920,q_auto/images/panoramic/getty_178976393_192891.jpg" alt="Tech Entrepreneurship" width="50%"/>
   <img src="https://mkunzigroup.com/asssets/images/Mkunzi%20Group%20Logo.svg" alt="Mkunzi Group" width="30%"/>
   <img src="https://betapsyche.org/images/Betapsyche%20logo%20Black.png" alt="Betapsyche" width="30%" />
   <img src="https://craftorlabs.com/asssets/images/Craftorlabs-logo.png" alt="Craftorlabs" width="30%"/>
