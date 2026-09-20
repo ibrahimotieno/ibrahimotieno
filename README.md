@@ -25,19 +25,14 @@ I orchestrate technology and creative infrastructure across a network of special
 
 <!-- Real-time dynamic activity widgets -->
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Systemic Git Metrics" width="49%" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://herokuapp.com" alt="Execution Continuity Velocity" width="49%" />
-  </a>
+  <img src="https://vercel.app" alt="Systemic Git Metrics" width="49%" />
+  <img src="https://herokuapp.com" alt="Execution Continuity Velocity" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://vercel.app" alt="Codebase Topologies" width="65%" />
 </p>
 
----
 
 ## ⚡ Master Architectural Matrix & Competencies
 
