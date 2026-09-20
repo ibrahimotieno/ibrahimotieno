@@ -42,11 +42,11 @@ I orchestrate technology and creative infrastructure across a network of special
 
 ## 🛠️ Specialized Architectural Toolchain
 
-#### **Systemic Blueprinting & Engineering**
+### **Systemic Blueprinting & Engineering**
 <p align="left">
-  ##### **Distributed Systems**
+  #### **Distributed Systems**
   <img src="https://inelpandzic.com/wp-content/uploads/2021/04/blockchain-3508589_1280-min.png" alt="Distributed Systems" width="40%"/>
-  ##### **Hybrid Cloud**
+  #### **Hybrid Cloud**
   <img src="https://img.guptadeepak.com/images/2021/11/AdobeStock_265247767.jpeg" alt="Hybrid Cloud" width="40%"/>
   <img src="https://shields.io" alt="Microservices" width="40%"/>
   <img src="https://shields.io" alt="Deterministic Workflows" width="40%"/>
