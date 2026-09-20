@@ -7,11 +7,11 @@ I engineer scalable digital ecosystems and build high-impact ventures. By anchor
 
 ## 🚀 The Venture Ecosystem
 
-I orchestrate technology and creative infrastructure across a network of specialized platforms under the **Mkunzi Group**:
+I orchestrate technology and creative infrastructure across a network of specialized platforms under the **[Mkunzi Group](mkunzigroup.com)**:
 
 *   **[Betapsyche](https://betapsyche.org)** – A non-profit infrastructure engineered to scale personal growth, mental wellbeing, and profound human transformation.
-*   **Craftorlabs** – A technology innovation hub focused on R&D, structural prototyping, and next-generation utility tools.
-*   **Craftorstudies** – A creative production house bridging enterprise software systems with cinema, animation, spatial music production, and interactive media.
+*   **[Craftorlabs](https://craftorlabs.com)** – A technology innovation hub focused on R&D, structural prototyping, and next-generation utility tools.
+*   **[Craftorstudios](https://craftorstudios.com)** – A creative production house bridging enterprise software systems with cinema, animation, spatial music production, and interactive media.
 
 ---
 
@@ -73,12 +73,23 @@ I orchestrate technology and creative infrastructure across a network of special
 #### **Venture Orchestration & Media Systems**
 <p align="left">
   <img src="https://shields.io" alt="Tech Entrepreneurship" />
-  <img src="https://shields.io" alt="FL Studio" />
   <img src="https://shields.io" alt="Mkunzi Group" />
   <img src="https://shields.io" alt="Betapsyche" />
+  <img src="https://shields.io" alt="Craftorstudios" />
 </p>
 
 ---
 
-## 🏛️ Ecosystem Overview & Live Repositories
+## ⚡ The Architectural Philosophy
 
+*   **The Blueprint:** I do not just write code; I design systems engineered for permanence. I view software layout as a live canvas where systemic order, engineering rigor, and deep human psychology converge.
+*   **Research Areas:** Distributed consensus networks, human cognitive acceleration, automated content pipelines, and systemic resilience.
+
+---
+
+## 📫 Intersect Networks
+
+*   **Digital Hub:** [mkunzi.com](https://mkunzi.com)
+*   **Inquiries:** [info@mkunzi.com](mailto:info@mkunzi.com)
+
+*“Mind is the master power that moulds and makes...”*
