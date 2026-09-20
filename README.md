@@ -62,7 +62,7 @@ I orchestrate technology and creative infrastructure across a network of special
 <p align="left">
   <img src="https://shields.io" alt="Tech Entrepreneurship" />
   <img src="https://shields.io" alt="Mkunzi Group" />
-  <img src="https://shields.io" alt="Betapsyche" />
+  <img src="https://betapsyche.org/images/Betapsyche%20logo%20Black.png" alt="Betapsyche" />
   <img src="https://shields.io" alt="Craftorstudios" />
 </p>
 
