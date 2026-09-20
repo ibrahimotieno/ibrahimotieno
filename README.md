@@ -44,19 +44,21 @@ I orchestrate technology and creative infrastructure across a network of special
 
 #### **Systemic Blueprinting & Engineering**
 <p align="left">
-  <img src="https://inelpandzic.com/wp-content/uploads/2021/04/blockchain-3508589_1280-min.png" alt="Distributed Systems"/>
-  <img src="https://img.guptadeepak.com/images/2021/11/AdobeStock_265247767.jpeg" alt="Hybrid Cloud"/>
-  <img src="https://shields.io" alt="Microservices" />
-  <img src="https://shields.io" alt="Deterministic Workflows" />
-  <img src="https://shields.io" alt="HPC" />
+  ##### **Distributed Systems**
+  <img src="https://inelpandzic.com/wp-content/uploads/2021/04/blockchain-3508589_1280-min.png" alt="Distributed Systems" width="40%"/>
+  ##### **Hybrid Cloud**
+  <img src="https://img.guptadeepak.com/images/2021/11/AdobeStock_265247767.jpeg" alt="Hybrid Cloud" width="40%"/>
+  <img src="https://shields.io" alt="Microservices" width="40%"/>
+  <img src="https://shields.io" alt="Deterministic Workflows" width="40%"/>
+  <img src="https://shields.io" alt="HPC" width="40%"/>
 </p>
 
 #### **Data Engineering & Backend Topology**
 <p align="left">
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="NodeJS" />
-  <img src="https://shields.io" alt="Vercel" />
-  <img src="https://shields.io" alt="GraphQL & REST" />
+  <img src="https://shields.io" alt="PostgreSQL" width="15%"/>
+  <img src="https://shields.io" alt="NodeJS" width="15%"/>
+  <img src="https://shields.io" alt="Mongo DB" width="15%"/>
+  <img src="https://shields.io" alt="GraphQL & REST" width="15%">
 </p>
 
 #### **Venture Orchestration & Media Systems**
