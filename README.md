@@ -17,16 +17,6 @@ I orchestrate technology and creative infrastructure across a network of special
 
 <div align="center">
 
-## 📊 Operational Telemetry & Systemic Metrics
-
-![Profile Telemetry Views](https://komarev.com)
-
-![Systemic Git Metrics](https://vercel.app)
-
-![Execution Continuity Velocity](https://herokuapp.com)
-
-![Codebase Topologies](https://vercel.app)
-
 
 ## ⚡ Master Architectural Matrix & Competencies
 
@@ -48,9 +38,12 @@ I orchestrate technology and creative infrastructure across a network of special
   <img src="https://inelpandzic.com/wp-content/uploads/2021/04/blockchain-3508589_1280-min.png" alt="Distributed Systems" width="40%"/>
   <p>Hybrid Cloud</p>
   <img src="https://img.guptadeepak.com/images/2021/11/AdobeStock_265247767.jpeg" alt="Hybrid Cloud" width="40%"/>
-  <img src="https://shields.io" alt="Microservices" width="40%"/>
-  <img src="https://shields.io" alt="Deterministic Workflows" width="40%"/>
-  <img src="https://shields.io" alt="HPC" width="40%"/>
+  <p>Microservices</p>
+  <img src="https://travanleo.com/wp-content/uploads/2025/10/1_wvPlEuyPwIux9_WX-eGf9Q.png" alt="Microservices" width="40%"/>
+  <p>Workflows</p>
+  <img src="https://docsvault.com/wordpress/wp-content/uploads/2021/04/workflow-management-system.jpg" alt="Deterministic Workflows" width="40%"/>
+  <p>High Performance Computing (HPC)</p>
+  <img src="https://www.infoworld.com/wp-content/uploads/2025/05/2334325-0-89160200-1747285484-supercomputer_servers_data_center_by_maxiphoto_getty_images_1200x800-100776400-orig.jpg" alt="HPC" width="40%"/>
 </p>
 
 #### **Data Engineering & Backend Topology**
