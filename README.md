@@ -19,19 +19,13 @@ I orchestrate technology and creative infrastructure across a network of special
 
 ## 📊 Operational Telemetry & Systemic Metrics
 
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Telemetry Views" />
-</p>
+![Profile Telemetry Views](https://komarev.com)
 
-<!-- Real-time dynamic activity widgets -->
-<p align="center">
-  <img src="https://vercel.app" alt="Systemic Git Metrics" width="49%" />
-  <img src="https://herokuapp.com" alt="Execution Continuity Velocity" width="49%" />
-</p>
+![Systemic Git Metrics](https://vercel.app)
 
-<p align="center">
-  <img src="https://vercel.app" alt="Codebase Topologies" width="65%" />
-</p>
+![Execution Continuity Velocity](https://herokuapp.com)
+
+![Codebase Topologies](https://vercel.app)
 
 
 ## ⚡ Master Architectural Matrix & Competencies
