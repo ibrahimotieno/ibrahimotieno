@@ -7,7 +7,7 @@ I engineer scalable digital ecosystems and build high-impact ventures. By anchor
 
 ## 🚀 The Venture Ecosystem
 
-I orchestrate technology and creative infrastructure across a network of specialized platforms under the *  **[Mkunzi Group](mkunzigroup.com)**:
+I orchestrate technology and creative infrastructure across a network of specialized platforms under the **[Mkunzi Group](https://mkunzigroup.com)**:
 
 *   **[Betapsyche](https://betapsyche.org)** – A non-profit infrastructure engineered to scale personal growth, mental wellbeing, and profound human transformation.
 *   **[Craftorlabs](https://craftorlabs.com)** – A technology innovation hub focused on R&D, structural prototyping, and next-generation utility tools.
