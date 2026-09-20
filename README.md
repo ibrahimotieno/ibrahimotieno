@@ -60,10 +60,11 @@ I orchestrate technology and creative infrastructure across a network of special
 
 #### **Venture Orchestration & Media Systems**
 <p align="left">
-  <img src="https://shields.io" alt="Tech Entrepreneurship" />
-  <img src="https://shields.io" alt="Mkunzi Group" />
-  <img src="https://betapsyche.org/images/Betapsyche%20logo%20Black.png" alt="Betapsyche" />
-  <img src="https://shields.io" alt="Craftorstudios" />
+  <img src="https://img-cdn.inc.com/image/upload/f_webp,c_fit,w_1920,q_auto/images/panoramic/getty_178976393_192891.jpg" alt="Tech Entrepreneurship" width="50%"/>
+  <img src="https://mkunzigroup.com/asssets/images/Mkunzi%20Group%20Logo.svg" alt="Mkunzi Group" width="30%"/>
+  <img src="https://betapsyche.org/images/Betapsyche%20logo%20Black.png" alt="Betapsyche" width="30%" />
+  <img src="https://craftorlabs.com/asssets/images/Craftorlabs-logo.png" alt="Craftorlabs" width="30%"/>
+  <img src="https://craftorstudios.com/asssets/images/Craftorstudios-logo.png" alt="Craftorstudios" width="30%"/>
 </p>
 
 ---
@@ -77,7 +78,7 @@ I orchestrate technology and creative infrastructure across a network of special
 
 ## 📫 Intersect Networks
 
-*   **Digital Hub:** [mkunzi.com](https://mkunzi.com)
-*   **Inquiries:** [info@mkunzi.com](mailto:info@mkunzi.com)
+  **Digital Hub:** [mkunzi.com](https://mkunzi.com)
+  **Inquiries:** [info@mkunzi.com](mailto:info@mkunzi.com)
 
 *“Mind is the master power that moulds and makes...”*
