@@ -44,7 +44,7 @@ I orchestrate technology and creative infrastructure across a network of special
 
 #### **Systemic Blueprinting & Engineering**
 <p align="left">
-  <img src="https://shields.io" alt="Distributed Systems" />
+  <img src="https://inelpandzic.com/wp-content/uploads/2021/04/blockchain-3508589_1280-min.png" alt="Distributed Systems" />
   <img src="https://shields.io" alt="Hybrid Cloud" />
   <img src="https://shields.io" alt="Microservices" />
   <img src="https://shields.io" alt="Deterministic Workflows" />
